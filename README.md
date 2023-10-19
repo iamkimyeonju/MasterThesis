@@ -1,5 +1,3 @@
 # MasterThesis
-
-서울대학교 중앙도서관에서도 석사학위논문을 열람할 수 있습니다. 
-
-다만 최신판으로 제가 수정한 본 페이지의 논문이 가장 정확합니다.
+The Master's thesis can also be accessed at the Seoul National University Central Library. 
+However, the version of the thesis on this page, which I have recently updated, is the most accurate.
